@@ -45,7 +45,7 @@ import com.watabou.utils.Bundle;
 public class Endure extends ArmorAbility {
 
 	{
-		baseChargeUse = 50f;
+		baseChargeUse = 50000f;
 	}
 
 	@Override
